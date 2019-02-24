@@ -31,30 +31,33 @@ The total-variation loss operates only on output image. It encourages spatial sm
 ## Results
 Here are three sample results of neural style transfer. In Figure 1, the content image (top left) is a photo of London Bridge, the style image (top right) is The Starry Night, by Van Gogh, and the resulting image (bottom) London Bridge in The Starry Night style.
 
-<img align="left" src="https://github.com/meng1994412/Neural_style_transfer/blob/master/inputs/london_bridge.jpg" height="250"> <img align="right" src="https://github.com/meng1994412/Neural_style_transfer/blob/master/inputs/starry_night.jpg" height="250">
+<img align="left" src="https://github.com/meng1994412/Neural_style_transfer/blob/master/inputs/london_bridge.jpg" height="300"> <img align="right" src="https://github.com/meng1994412/Neural_style_transfer/blob/master/inputs/starry_night.jpg" height="300">
+
 
 <p align="center">
-  <img src="https://github.com/meng1994412/Neural_style_transfer/blob/master/results/london_bridge_in_starry_night.png" height="250">
+  <img src="https://github.com/meng1994412/Neural_style_transfer/blob/master/results/london_bridge_in_starry_night.png" height="300">
 </p>
 
 Figure 1: Cotent image (top left), style image (top right), and resulting image (bottom).
 
 In Figure 2, the content image (top left) is a painting of evening in Annecy, the style image (top right) is pencil sketch of Westmuir, and resulting image (bottom) is Annecy in pencil sketch style.
 
-<img align="left" src="https://github.com/meng1994412/Neural_style_transfer/blob/master/inputs/evening_in_annecy.jpg" height="200"> <img align="right" src="https://github.com/meng1994412/Neural_style_transfer/blob/master/inputs/westmuir_sketch.jpg" height="200">
+<img align="left" src="https://github.com/meng1994412/Neural_style_transfer/blob/master/inputs/evening_in_annecy.jpg" height="300"> <img align="right" src="https://github.com/meng1994412/Neural_style_transfer/blob/master/inputs/westmuir_sketch.jpg" height="300">
+
 
 <p align="center">
-  <img src="https://github.com/meng1994412/Neural_style_transfer/blob/master/results/annecy_sketch.png" height="200">
+  <img src="https://github.com/meng1994412/Neural_style_transfer/blob/master/results/annecy_sketch.png" height="300">
 </p>
 
 Figure 2: Cotent image (top left), style image (top right), and resulting image (bottom).
 
 In Figure 3, the content image (top left) is a photo of Eiffel Tower, the style image (top right) is Haystacks, End of Summer, by Claude Monet, and the result image (bottom) is Eiffel Tower in Monet style.
 
-<img align="left" src="https://github.com/meng1994412/Neural_style_transfer/blob/master/inputs/eiffel_tower2.jpg" height="200"> <img align="right" src="https://github.com/meng1994412/Neural_style_transfer/blob/master/inputs/monet_haystacks.jpg" height="200">
+<img align="left" src="https://github.com/meng1994412/Neural_style_transfer/blob/master/inputs/eiffel_tower2.jpg" height="300"> <img align="right" src="https://github.com/meng1994412/Neural_style_transfer/blob/master/inputs/monet_haystacks.jpg" height="300">
+
 
 <p align="center">
-  <img src="https://github.com/meng1994412/Neural_style_transfer/blob/master/results/eiffel_tower_in_monet.png" height="200">
+  <img src="https://github.com/meng1994412/Neural_style_transfer/blob/master/results/eiffel_tower_in_monet.png" height="300">
 </p>
 
 Figure 3: Cotent image (top left), style image (top right), and resulting image (bottom).
