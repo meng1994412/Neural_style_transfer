@@ -53,11 +53,11 @@ Figure 2: Cotent image (top left), style image (top right), and resulting image 
 
 In Figure 3, the content image (top left) is a photo of Eiffel Tower, the style image (top right) is Haystacks, End of Summer, by Claude Monet, and the result image (bottom) is Eiffel Tower in Monet style.
 
-<img align="left" src="https://github.com/meng1994412/Neural_style_transfer/blob/master/inputs/eiffel_tower2.jpg" height="250"> <img align="right" src="https://github.com/meng1994412/Neural_style_transfer/blob/master/inputs/monet_haystacks.jpg" height="250">
+<img align="left" src="https://github.com/meng1994412/Neural_style_transfer/blob/master/inputs/eiffel_tower2.jpg" height="240"> <img align="right" src="https://github.com/meng1994412/Neural_style_transfer/blob/master/inputs/monet_haystacks.jpg" height="240">
 
 
 <p align="center">
-  <img src="https://github.com/meng1994412/Neural_style_transfer/blob/master/results/eiffel_tower_in_monet.png" height="250">
+  <img src="https://github.com/meng1994412/Neural_style_transfer/blob/master/results/eiffel_tower_in_monet.png" height="240">
 </p>
 
 Figure 3: Cotent image (top left), style image (top right), and resulting image (bottom).
